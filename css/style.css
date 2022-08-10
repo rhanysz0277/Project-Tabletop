@@ -120,9 +120,27 @@ html body {
     display:flex;
     flex-direction:column;
     align-items:center;
-    justify-content:space-around;
+    justify-content:flex-start;
     margin-left:1%;
+    margin-top:1%;
+    max-height:1500px;
+    overflow-y:scroll;
 }
+.locationcardscont::-webkit-scrollbar-track{
+    padding: 2px 0;
+    background-color: #404040;
+    margin:1%;
+}
+.locationcardscont::-webkit-scrollbar{
+    width:10px;
+    margin:1%;
+}
+.locationcardscont::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #737272;
+    margin:1%;
+  }
 .locationcards{
     justify-content:center;
 }
