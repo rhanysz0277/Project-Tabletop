@@ -40,6 +40,7 @@
    position: relative; top: 100px;
 }
 .hero {
+    background-image: url(../images/Hero\ Image.png);
     background-image: url("../images/Hero\ Image.png");
     height: 900px;
     margin-top: -85px;
