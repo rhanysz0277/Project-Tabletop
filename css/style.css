@@ -79,10 +79,17 @@ html body {
     padding: 10px;
     background-color: #336635;
 }
+.nav2 h2 {
+    position: relative; left: 580px;
+    color: white;
+}
 .card {
     background-color: #336635;
     border: hidden;
     color: white;
+    justify-content: space-around;
+    padding: 40px;
+    text-align: center;
 }
 .card img {
     height: 300px;
