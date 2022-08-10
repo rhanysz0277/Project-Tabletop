@@ -112,7 +112,7 @@ html body {
     align-items:center;
 }
 .customnav{
-    background-color:black !important;
+    background-color:#040404 !important;
 
 }
 .customnav a{
@@ -120,4 +120,7 @@ html body {
 }
 .customnav img{
     width:40%;
+}
+.customnav ul{
+    margin:0 auto;
 }
