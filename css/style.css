@@ -75,7 +75,6 @@ html body {
 .hcard img {
     height: 300px;
 }
-<<<<<<< HEAD
 .footer img {
     height: 250px;
     margin-left: -30px;
@@ -87,7 +86,7 @@ html body {
     overflow-y: hidden;
     display: inline-block;
     width: 100%;
-=======
+}
 #topImage{
     background:url(../images/zip\ code\ map\ screen\ background\ photo.png);
     height:100vh;
@@ -123,7 +122,6 @@ html body {
     align-items:center;
     justify-content:space-around;
     margin-left:1%;
->>>>>>> c6de999d38fa6796b6ba2fb87f80a07788bd2ed0
 }
 .locationcards{
     justify-content:center;
