@@ -44,16 +44,22 @@
     height: 900px;
     margin-top: -85px;
 }
+.form-inline {
+    position: relative; left: 600px;
+    position: relative; top: 550px;
+}
+.btn{
+    position: relative; left: 680px;
+    position: relative; top: 600px;
+    background-color: #04B900;
+}
 .hero p {
     position: relative; top: 500px;
     text-align: center;
     position: relative; left: 40px;
     font-size: x-large;
 }
-.zipSearch {
-    width: 10px;
-    
-}
+
 html body {
     margin: 0;
     padding: 0;
