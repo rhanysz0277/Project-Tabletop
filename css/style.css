@@ -29,6 +29,8 @@
     background-image: url("../images/Hero\ Image.png");
     height: 900px;
     margin-top: -85px;
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 .form-inline {
     position: relative; left: 600px;
@@ -73,6 +75,7 @@ html body {
 .hcard img {
     height: 300px;
 }
+<<<<<<< HEAD
 .footer img {
     height: 250px;
     margin-left: -30px;
@@ -84,4 +87,41 @@ html body {
     overflow-y: hidden;
     display: inline-block;
     width: 100%;
+=======
+#topImage{
+    background:url(../images/zip\ code\ map\ screen\ background\ photo.png);
+    height:100vh;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:flex;
+    justify-content:space-around;
+}
+.mapcontainer{
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.customnav{
+    background-color:#040404 !important;
+
+}
+.customnav a{
+    color:white !important;
+}
+.customnav img{
+    width:40%;
+}
+.customnav ul{
+    margin:0 auto;
+}
+.locationcardscont{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    margin-left:1%;
+>>>>>>> c6de999d38fa6796b6ba2fb87f80a07788bd2ed0
 }
