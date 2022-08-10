@@ -87,3 +87,42 @@ html body {
     display: inline-block;
     width: 100%;
 }
+#topImage{
+    background:url(../images/zip\ code\ map\ screen\ background\ photo.png);
+    height:100vh;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:flex;
+    justify-content:space-around;
+}
+.mapcontainer{
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.customnav{
+    background-color:#040404 !important;
+
+}
+.customnav a{
+    color:white !important;
+}
+.customnav img{
+    width:40%;
+}
+.customnav ul{
+    margin:0 auto;
+}
+.locationcardscont{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    margin-left:1%;
+}
+.locationcards{
+    justify-content:center;
+}
