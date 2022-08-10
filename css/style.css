@@ -67,3 +67,7 @@ html body {
 .card-deck {
     background-color: #336635;
 }
+#topImage{
+    background:url(../images/zip\ code\ map\ screen\ background\ photo.png);
+    height:100vh;
+}
