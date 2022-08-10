@@ -6,6 +6,10 @@
     height: 145px;
     width: 100%;
 }
+.p-menu1 a {
+    margin-left: 50px;
+    position: relative; right: 150px;
+}
 
 .menu1 {
     background-color: #02173f;
@@ -30,7 +34,7 @@
 .p-menu1 img {
     margin-top: -30px;
     height: 250px;
-    margin-left: -30px
+    margin-left: -30px;
 }
 .nav-link {
     color: white;
@@ -39,11 +43,25 @@
    position: relative; left: 350px;
    position: relative; top: 100px;
 }
+.nav2 h1 {
+    padding: 100px;
+    font-size:xx-large;
+}
 .hero {
-    background-image: url(../images/Hero\ Image.png);
     background-image: url("../images/Hero\ Image.png");
     height: 900px;
     margin-top: -85px;
+}
+.form-inline {
+    position: relative; left: 600px;
+    position: relative; top: 550px;
+    width: 400px;
+}
+.btn{
+    position: relative; left: 670px;
+    position: relative; top: 600px;
+    background-color: #04B900;
+    width: 100px;
 }
 .hero p {
     position: relative; top: 500px;
@@ -51,21 +69,30 @@
     position: relative; left: 40px;
     font-size: x-large;
 }
-.zipSearch {
-    width: 10px;
-    
-}
+
 html body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
 }
 .nav2 {
-    padding: 100px;
+    padding: 10px;
     background-color: #336635;
 }
-.card-deck {
+.nav2 h2 {
+    position: relative; left: 580px;
+    color: white;
+}
+.card {
     background-color: #336635;
+    border: hidden;
+    color: white;
+    justify-content: space-around;
+    padding: 40px;
+    text-align: center;
+}
+.card img {
+    height: 300px;
 }
 #topImage{
     background:url(../images/zip\ code\ map\ screen\ background\ photo.png);
