@@ -84,3 +84,6 @@ html body {
     border: hidden;
     color: white;
 }
+.card img {
+    height: 300px;
+}
