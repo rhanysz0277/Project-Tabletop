@@ -4,7 +4,7 @@
     display: inline-flex;
     background-color: black;
     height: 145px;
-    width: 1365px;
+    width: 100%;
 }
 
 .menu1 {
@@ -40,7 +40,7 @@
    position: relative; top: 100px;
 }
 .hero {
-    background-image: url("/images/Hero\ Image.png");
+    background-image: url("../images/Hero\ Image.png");
     height: 900px;
     margin-top: -85px;
 }
@@ -49,6 +49,10 @@
     text-align: center;
     position: relative; left: 40px;
     font-size: x-large;
+}
+.zipSearch {
+    width: 10px;
+    
 }
 html body {
     margin: 0;
