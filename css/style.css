@@ -143,19 +143,14 @@ html body {
 .locationcards a{
     color:black;
 }
+.page3{
+    background-color: #336635;
+}
 .topHalf {
     display: inline-flex;
-    margin-left: 3%;
+    position: relative; left: 10%;
 }
 #top {
-    width: 30%;
-    position: relative; left: 20%;
-}
-.bottomHalf {
-    display: inline-flex;
-    margin-left: 3%;
-}
-#bottom {
-    width: 30%;
-    height: 30%;
+    width: 40%;
+    position: relative; left: 5%;
 }
