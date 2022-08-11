@@ -137,8 +137,8 @@ html body {
     margin:1%;
   }
 .locationcards{
-    justify-content:center;
-    align-items:center;
+    width:100%;
+    margin-right:2%;
 }
 .locationcards a{
     color:black;
