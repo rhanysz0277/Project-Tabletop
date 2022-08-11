@@ -143,4 +143,8 @@ html body {
   }
 .locationcards{
     justify-content:center;
+    align-items:center;
+}
+.locationcards a{
+    color:black;
 }
