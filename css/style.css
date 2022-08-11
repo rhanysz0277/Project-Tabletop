@@ -31,25 +31,20 @@
     margin-top: -85px;
     background-repeat:no-repeat;
     background-size:cover;
-}
-.form-inline {
-    position: relative; left: 600px;
-    position: relative; top: 550px;
-    width: 400px;
-}
-.btn{
-    position: relative; left: 670px;
-    position: relative; top: 600px;
-    background-color: #04B900;
-    width: 100px;
+    justify-content: center;
 }
 .hero p {
-    position: relative; top: 500px;
-    text-align: center;
-    position: relative; left: 40px;
-    font-size: x-large;
+position: relative; top: 50%;
+text-align: center;
 }
-
+.btn {
+    position: relative; left: 47%;
+    position: relative; top: 55%;
+}
+.zipEnter{
+    position: relative; left: 43%;
+    margin-top: 40%;
+}
 html body {
     margin: 0;
     padding: 0;
