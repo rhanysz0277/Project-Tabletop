@@ -145,6 +145,8 @@ html body {
 }
 .page3{
     background-color: #336635;
+    padding: 5%;
+    margin-top: -8%;
 }
 .topHalf {
     display: inline-flex;
